@@ -34,6 +34,7 @@ The App is a clone of the Spotify App(just frontend).
 <p>
   <img src="./Images/Search.jpeg" width="350" height="630" title="hover text">
 </p>
+
 ### Premium Screen
 
 <p>
